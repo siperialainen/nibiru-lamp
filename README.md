@@ -4,11 +4,11 @@ This is Nibiru Technology base vagrant LAMP configuration based on Ubuntu 16.04 
 
 ### What is included
 
-Apache 2.4
-MySQL 5.7
-PHP 5.6 (including xDebug, composer)
-MailHog
-Some console utilities: htop, mc, nano
+* Apache 2.4
+* MySQL 5.7
+* PHP 5.6 (including xDebug, composer)
+* MailHog
+* Some console utilities: htop, mc, nano
 
 ### How to access
 
@@ -49,8 +49,8 @@ xdebug.extended_info: '1'
 
 ## Requirements
 
-Vagrant >= 1.8.1
-VirtualBox >= 5.1
+* Vagrant >= 1.8.1
+* VirtualBox >= 5.1
 
 ## Built With
 
