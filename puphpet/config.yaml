@@ -315,7 +315,7 @@ php:
         auto_detect_line_endings: 'On'
         html_errors: 'On'
         short_open_tag: 'On'
-        post_max_size = '220M'
+        post_max_size: '220M'
         upload_max_filesize:'200M'
         error_reporting: '-1'
         session.save_path: /var/lib/php/session
